@@ -1,0 +1,12 @@
+Steps to run this : 
+
+1. Install Xampp
+2. Start Apache and Mysql server
+3. Put this project inside the Xampp/htdocs/
+4. Goto your browser and open http://localhost/phpmyadmin/
+5. Create a new database with name mydb
+6. Goto your browser and open localhost/Web_Form_Php_MySql
+7. Enter your details 
+8. Click submit
+9. Open http://localhost/phpmyadmin/ and check the submitted Info
+10. Export Info using export tab as CSV
